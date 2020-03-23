@@ -10,7 +10,7 @@ Retrieve the Staq source code from <https://github.com/softwareQinc/staq> and bu
 Then copy the executable to this folder such that the python file can find it.
 
 ## Replicating results
-Our results can be replicated using [the jupyter notebook](Architecture aware phase polynomial synthesis.ipynb). 
+Our results can be replicated using [the jupyter notebook](Architecture%20aware%20phase%20polynomial%20synthesis.ipynb). 
 It also contains our script for generating phase polynomials and to analyse the raw metrics from the synthesised circuits.
 
 ## The proposed algorithm
