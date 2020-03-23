@@ -14,4 +14,4 @@ Our results can be replicated using [the jupyter notebook](Architecture aware ph
 It also contains our script for generating phase polynomials and to analyse the raw metrics from the synthesised circuits.
 
 ## The proposed algorithm
-The code of our proposed algorithm can be found in [phase_poly.py](phase_poly.py) the corresponding method in the `PhasePoly` object is called `Ariannes_synth()`.
+The code of our proposed algorithm can be found in [phase_poly.py](phase_poly.py) the corresponding method in the `PhasePoly` class is called `Ariannes_synth()`.
